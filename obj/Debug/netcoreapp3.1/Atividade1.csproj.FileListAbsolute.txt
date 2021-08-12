@@ -1,0 +1,13 @@
+C:\Users\ferna\Desktop\workspace\C#\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.exe
+C:\Users\ferna\Desktop\workspace\C#\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.deps.json
+C:\Users\ferna\Desktop\workspace\C#\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.runtimeconfig.json
+C:\Users\ferna\Desktop\workspace\C#\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.runtimeconfig.dev.json
+C:\Users\ferna\Desktop\workspace\C#\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.dll
+C:\Users\ferna\Desktop\workspace\C#\Atividade1\bin\Debug\netcoreapp3.1\Atividade1.pdb
+C:\Users\ferna\Desktop\workspace\C#\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.csprojAssemblyReference.cache
+C:\Users\ferna\Desktop\workspace\C#\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.AssemblyInfoInputs.cache
+C:\Users\ferna\Desktop\workspace\C#\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.AssemblyInfo.cs
+C:\Users\ferna\Desktop\workspace\C#\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\workspace\C#\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.dll
+C:\Users\ferna\Desktop\workspace\C#\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.pdb
+C:\Users\ferna\Desktop\workspace\C#\Atividade1\obj\Debug\netcoreapp3.1\Atividade1.genruntimeconfig.cache
